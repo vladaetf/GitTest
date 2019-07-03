@@ -15,7 +15,7 @@ public class Brojac {
     }
     
     public String poruka(){
-        return "Poruka iz brojaca 1";
+        return "Nova poruka iz brojaca";
     }
     
 }
